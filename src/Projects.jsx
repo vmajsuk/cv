@@ -2,7 +2,7 @@ import styled from "@emotion/styled";
 import React from "react";
 
 const Root = styled.div`
-  margin-bottom: 16px;
+  margin-bottom: 1rem;
 `;
 
 const Project = ({ role, title, company, dates, stack, description }) => (

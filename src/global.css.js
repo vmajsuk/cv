@@ -13,6 +13,9 @@ export const globalCss = css`
     height: 100vh;
     font-family: texta;
   }
+  html {
+    font-size: 16px;
+  }
   * {
     box-sizing: border-box;
   }

@@ -2,7 +2,7 @@ import React from "react";
 import styled from "@emotion/styled";
 
 const Title = styled.h1`
-  margin: 0 0 8px 0;
+  margin: 0 0 0.5rem 0;
 `;
 
 export const Head = () => (

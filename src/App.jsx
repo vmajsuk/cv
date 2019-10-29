@@ -15,10 +15,10 @@ import { globalCss } from "./global.css";
 const Root = styled.div`
   width: 210mm;
   height: 297mm;
-  padding: 24px 24px;
+  padding: 0;
 
   border: 1px solid black;
-  margin: 16px;
+  margin: 1rem;
   @media print {
     margin: none;
     border: none;
